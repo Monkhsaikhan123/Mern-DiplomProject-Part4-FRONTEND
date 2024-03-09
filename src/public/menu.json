@@ -1,0 +1,377 @@
+
+
+[
+    {
+      "name": "Carrot",
+      "description": "A root vegetable with a crisp texture and a sweet, earthy flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Tomato",
+      "description": "A juicy, red fruit commonly used as a vegetable in cooking",
+      "price": "0.99",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Broccoli",
+      "description": "A green vegetable with a dense, flowery head and a mild, slightly bitter taste",
+      "price": "2.49",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cucumber",
+      "description": "A long, cylindrical vegetable with a green skin and a crisp, watery flesh",
+      "price": "1.49",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Spinach",
+      "description": "A leafy green vegetable with a slightly bitter taste and a high nutritional value",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Bell Pepper",
+      "description": "A sweet, crunchy vegetable with a green, red, or yellow skin",
+      "price": "1.29",
+      "quantity": "50",
+      "category":"Хүнсний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Onion",
+      "description": "A pungent vegetable with many layers and a strong flavor when cooked",
+      "price": "0.79",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Potato",
+      "description": "A starchy vegetable with a brown, yellow, or red skin and a white or yellow flesh",
+      "price": "0.99",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Lettuce",
+      "description": "A leafy vegetable with a mild, slightly bitter taste and a crunchy texture",
+      "price": "1.49",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "description": "A summer squash with a green or yellow skin and a mild, slightly sweet flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Eggplant",
+      "description": "A purple or white vegetable with a smooth, shiny skin and a mild, slightly bitter taste",
+      "price": "2.29",
+      "quantity": "50",
+      "category": "Навчит ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cauliflower",
+      "description": "A white vegetable with a dense, flowery head and a mild, slightly nutty flavor",
+      "price": "2.99",
+      "quantity": "50",
+      "category": "Vegetable",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cabbage",
+      "description": "A leafy green or purple vegetable with a dense, round or oval head and a mild, slightly bitter taste",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Навчит ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Carrot",
+      "description": "A root vegetable with a crisp texture and a sweet, earthy flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Tomato",
+      "description": "A juicy, red fruit commonly used as a vegetable in cooking",
+      "price": "0.99",
+      "quantity": "50",
+      "category": "Навчит ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Broccoli",
+      "description": "A green vegetable with a dense, flowery head and a mild, slightly bitter taste",
+      "price": "2.49",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cucumber",
+      "description": "A long, cylindrical vegetable with a green skin and a crisp, watery flesh",
+      "price": "1.49",
+      "quantity": "50",
+      "category": "Навчит ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Spinach",
+      "description": "A leafy green vegetable with a slightly bitter taste and a high nutritional value",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Навчит ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Bell Pepper",
+      "description": "A sweet, crunchy vegetable with a green, red, or yellow skin",
+      "price": "1.29",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Onion",
+      "description": "A pungent vegetable with many layers and a strong flavor when cooked",
+      "price": "0.79",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Potato",
+      "description": "A starchy vegetable with a brown, yellow, or red skin and a white or yellow flesh",
+      "price": "0.99",
+      "quantity": "50",
+      "category":"Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Lettuce",
+      "description": "A leafy vegetable with a mild, slightly bitter taste and a crunchy texture",
+      "price": "1.49",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "description": "A summer squash with a green or yellow skin and a mild, slightly sweet flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Eggplant",
+      "description": "A purple or white vegetable with a smooth, shiny skin and a mild, slightly bitter taste",
+      "price": "2.29",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cauliflower",
+      "description": "A white vegetable with a dense, flowery head and a mild, slightly nutty flavor",
+      "price": "2.99",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cabbage",
+      "description": "A leafy green or purple vegetable with a dense, round or oval head and a mild, slightly bitter taste",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+ 
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Carrot",
+      "description": "A root vegetable with a crisp texture and a sweet, earthy flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Tomato",
+      "description": "A juicy, red fruit commonly used as a vegetable in cooking",
+      "price": "0.99",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Broccoli",
+      "description": "A green vegetable with a dense, flowery head and a mild, slightly bitter taste",
+      "price": "2.49",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cucumber",
+      "description": "A long, cylindrical vegetable with a green skin and a crisp, watery flesh",
+      "price": "1.49",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Spinach",
+      "description": "A leafy green vegetable with a slightly bitter taste and a high nutritional value",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Bell Pepper",
+      "description": "A sweet, crunchy vegetable with a green, red, or yellow skin",
+      "price": "1.29",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Onion",
+      "description": "A pungent vegetable with many layers and a strong flavor when cooked",
+      "price": "0.79",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Potato",
+      "description": "A starchy vegetable with a brown, yellow, or red skin and a white or yellow flesh",
+      "price": "0.99",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Lettuce",
+      "description": "A leafy vegetable with a mild, slightly bitter taste and a crunchy texture",
+      "price": "1.49",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Zucchini",
+      "description": "A summer squash with a green or yellow skin and a mild, slightly sweet flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Eggplant",
+      "description": "A purple or white vegetable with a smooth, shiny skin and a mild, slightly bitter taste",
+      "price": "2.29",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+   
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cauliflower",
+      "description": "A white vegetable with a dense, flowery head and a mild, slightly nutty flavor",
+      "price": "2.99",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+     
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cabbage",
+      "description": "A leafy green or purple vegetable with a dense, round or oval head and a mild, slightly bitter taste",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Нарийн ногоо",
+   
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Carrot",
+      "description": "A root vegetable with a crisp texture and a sweet, earthy flavor",
+      "price": "1.99",
+      "quantity": "50",
+      "category":"Хүлэмжний ногоо",
+      
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Tomato",
+      "description": "A juicy, red fruit commonly used as a vegetable in cooking",
+      "price": "0.99",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+     
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Broccoli",
+      "description": "A green vegetable with a dense, flowery head and a mild, slightly bitter taste",
+      "price": "2.49",
+      "quantity": "50",
+      "category": "Хүлэмжний ногоо",
+    
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Cucumber",
+      "description": "A long, cylindrical vegetable with a green skin and a crisp, watery flesh",
+      "price": "1.49",
+      "quantity": "50",
+      "category":"Хүнсний ногоо",
+     
+      "image": "/src/assets/6.jpg"
+    },
+    {
+      "name": "Spinach",
+      "description": "A leafy green vegetable with a slightly bitter taste and a high nutritional value",
+      "price": "1.79",
+      "quantity": "50",
+      "category": "Хүнсний ногоо",
+    
+      "image": "/src/assets/6.jpg"
+    }
+  ]
